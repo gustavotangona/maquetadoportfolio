@@ -1,0 +1,44 @@
+*{
+    margin: 2px;
+    padding:0;
+}
+
+h1 {
+    color:crimson;
+}
+#profile-background{
+    font-style: italic;
+    size: 14px;
+    border-radius: double;
+    border-style: double;
+    border-color:blue;
+}
+#destacado{
+    border-style:double;
+    border-color:blue;
+}
+#imagen{
+    border-style: double;
+    border-color:rgb(37, 166, 209);
+}
+.nombre
+{
+    font-style: italic;
+    color:blue;
+}
+#perfil
+{
+    font-style: italic;
+    color:blue;
+}
+#residencia
+{
+    font-style: italic;
+    color:blue;
+}
+.container-fluid
+{
+    color: #rgb(2, 50, 60);
+    border-style: double;
+    background-color: dimgrey;
+}
